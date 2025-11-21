@@ -1,0 +1,11 @@
+# Tipo primitivo e todas as informações
+print('====== DESAFIO 04 ======')
+p = input('Digite algo: ')
+print('O tipo primitivo desse valor é {}.'.format(type(p)))
+print('Só tem espaços? {}'.format(p.isspace()))
+print('É um número? {}'.format(p.isnumeric()))
+print('É alfabético? {}'.format(p.isalpha()))
+print('É alfanumérico? {}'.format(p.isalnum()))
+print('Está toda em maiúscula? {}'.format(p.isupper()))
+print('Está toda em minúscula? {}'.format(p.islower()))
+print('Está capitalizada? {}'.format(p.istitle()))
