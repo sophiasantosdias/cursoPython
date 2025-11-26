@@ -32,7 +32,7 @@ print(f'{" PRINT 3 ":=^60}')
 print()
 print(f'O Jogador {jogador["nome"]} jogou {quant} partidas.')
 for i, v in enumerate(gols):
-    print(f'    => Na partida {i + 1*}, fez {v} gols.')
+    print(f'    => Na partida {i + 1}, fez {v} gols.')
     sleep(0.5)
 print(f'Foi um total de {soma} gols.')
 
