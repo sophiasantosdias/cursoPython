@@ -12,12 +12,12 @@ def dobro(p=0):
     return dobro
 
 
-def aumento(p=0, v):
+def aumento(p=0, v=0):
     aum = p + p * v /100
     return aum
 
 
-def diminuicao(p=0, v):
+def diminuicao(p=0, v=0):
     dim = p - p * v / 100
     return dim
 
