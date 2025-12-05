@@ -1,0 +1,3 @@
+sophia;17
+pedro ;31
+valeria;53
