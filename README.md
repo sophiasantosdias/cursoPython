@@ -1,3 +1,3 @@
 # Curso de Python
-Repositório com os exercícios feitos do curso de python do CursoemVideo.
-Dos primeiros contatos com Python até aplicações mais difíceis.
+Exercícios em Python do CursoemVideo, de aplicações simples a aplicações mais complexas.
+Repositório de Estudo
